@@ -2,7 +2,7 @@
 PRODUCT_RELEASE_NAME := mt6582
 
 # Inherit some common XOSP stuff.
-$(call inherit-product, vendor/xosp/config/xosp.mk)
+$(call inherit-product, vendor/xosp/config/common_full_phone.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/mediatek/mt6582/device_mt6582.mk)
