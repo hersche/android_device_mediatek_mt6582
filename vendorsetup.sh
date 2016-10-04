@@ -1,2 +1,2 @@
-#used to add device to CM's lunch
-add_lunch_combo cm_mt6582-userdebug
+#used to add device to DU's lunch
+add_lunch_combo du_mt6582-userdebug
